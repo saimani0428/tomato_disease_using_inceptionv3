@@ -43,17 +43,17 @@ pip install -r requirements.txt
 
 🚀 Model Training
 
-Run the training script:
-
-python train.py
-
-Modify hyperparameters in config.py if needed.
+Run the model on jupyter
 
 🖼 Testing the Model
 
-Run inference on a single image:
+Run inference :
 
-python predict.py --image path/to/image.jpg
+python app.py 
+
+predicting :
+
+upload the image in webpage
 
 Example Output:
 
